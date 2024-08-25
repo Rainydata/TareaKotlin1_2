@@ -1,6 +1,6 @@
 # TareaKotlin1_2
 
-Nombres: Bryan Alejandro Benavides, Alejandro Castaño
+Nombres: Bryan Alejandro Benavides, Alejandro Castaño Uzquiano
 
 ![Captura de pantalla 2024-08-20 222231](https://github.com/user-attachments/assets/380ceeb7-af87-45fb-a701-3b18c7d06e56)
 
